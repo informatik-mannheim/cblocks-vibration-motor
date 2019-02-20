@@ -29,8 +29,6 @@ void setup(){
   initSerial();
   initCBlocks();
   initSensor();
-
-  pinMode(21, OUTPUT);
 }
 
 void loop(){
